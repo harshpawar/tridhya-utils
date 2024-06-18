@@ -1,0 +1,21 @@
+{
+    "name": "harshpawar/tridhya-utils",
+    "description": "override the utility functions",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Harshpawar\\TridhyaUtils\\": "src/"
+        },
+        "files": [
+            "src/helpers.php"
+        ]
+    },
+    
+    "authors": [
+        {
+            "name": "Harsh Pawar",
+            "email": "harsh.pawar.in@gmail.com"
+        }
+    ],
+    "require": {}
+}
